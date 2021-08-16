@@ -1,0 +1,65 @@
+#navbar ul li a {
+    font-size: 1rem;
+    padding: 8px 1px;
+    padding-bottom: 8px;
+}
+
+#logo img {
+    height: 59px;
+    margin: 21px 6px -19px 7px;
+}
+
+.extra::before {
+    content: "";
+    background: url(img16.jpg) no-repeat center center/cover;
+    top: -66px;
+    left: 0px;
+    height: 122%;
+    width: 100%;
+    z-index: -1;
+}
+
+.container {
+    padding: 13px 10px 10px 10px;
+    margin: 201px 36px 26px 52px;
+    border: 4px solid black;
+    border-radius: 25px;
+    width: 293px;
+    height: 254px;
+    text-align: center;
+    box-shadow: 16px 2px 94px 117px rgb(215 225 232) inset;
+    position: absolute;
+    left: -31px;
+    top: 136px;
+}
+
+#donate {
+    margin-top: 19px;
+    margin-bottom: -124px;
+}
+
+.info {
+    font-weight: bold;
+    font-size: 15px;
+    margin: -20px;
+    padding-top: 119px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+.boxes {
+    display: flex;
+    flex-direction: column !important;
+    margin-bottom: 16px;
+    justify-content: space-evenly;
+    padding: 20px 48px 9px 70px;
+    margin-top: -106px;
+    
+}
+
+.boxes p {
+    font-size: 1.02em;
+    padding-top: 10px;
+}

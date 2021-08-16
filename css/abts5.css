@@ -1,0 +1,10 @@
+.abt {
+    padding: 1px 14px 4px 20px;
+    width: 228px;
+    height: 229px;
+    margin: 67px;
+    border: 2px solid transparent;
+    border-radius: 27px 2px 27px 2px;
+    box-shadow: 15px 23px 74px 70px #bee1d9 inset;
+    font-family: 'Hahmlet', serif;
+}
